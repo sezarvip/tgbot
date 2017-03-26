@@ -9,17 +9,17 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/mahdiroo/MaTaDoR.git
-cd MaTaDoR
-chmod +x matador.sh
-./matador.sh install
-./matador.sh 
+git clone https://github.com/sezarvip/tgbot.git
+cd tgbot
+chmod +x sezar.sh
+./sezar.sh install
+./sezar.sh 
 # Enter a phone number & confirmation code.
 ```
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/mahdiroo/MaTaDoR.git && cd MaTaDoR && chmod +x matador.sh && ./matador.sh install && ./sezar.sh
+cd $HOME && git clone https://github.com/sezarvip/tgbot.git && cd tgbot && chmod +x sezar.sh && ./sezar.sh install && ./sezar.sh
 ```
 
 * * *
@@ -28,7 +28,7 @@ cd $HOME && git clone https://github.com/mahdiroo/MaTaDoR.git && cd MaTaDoR && c
 
 ```
 killall -9 bash
-cd MaTaDoR && killall screen && screen ./sezar.sh
+cd sezar && killall screen && screen ./sezar.sh
 ```
 
 * * *
