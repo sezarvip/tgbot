@@ -1043,7 +1043,7 @@ local hash = "gp_lang:"..msg.to.id
 local lang = redis:get(hash)
  if not is_mod(msg) then
 if not lang then
-return "_You're Not_ *Moderator*"
+return "_You're Not_ *Sezar*"
 else
 return "شما مدیر گروه نمیباشید"
 end
