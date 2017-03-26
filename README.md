@@ -1,4 +1,4 @@
-# [MahDiRoO](https://telegram.me/MahDiRoO)
+# [@sezarinfo](https://telegram.me/sezarinfo)
 
 
 * * *
@@ -37,7 +37,7 @@ cd MaTaDoR && killall screen && screen ./matador.sh
 ### auto launch 
 ```
 bi pv :)
-@MahDiRoO
+@sezarinfo
 ```
 
 * * *
