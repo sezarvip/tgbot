@@ -19,7 +19,7 @@ chmod +x matador.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/mahdiroo/MaTaDoR.git && cd MaTaDoR && chmod +x matador.sh && ./matador.sh install && ./matador.sh
+cd $HOME && git clone https://github.com/mahdiroo/MaTaDoR.git && cd MaTaDoR && chmod +x matador.sh && ./matador.sh install && ./sezar.sh
 ```
 
 * * *
@@ -28,7 +28,7 @@ cd $HOME && git clone https://github.com/mahdiroo/MaTaDoR.git && cd MaTaDoR && c
 
 ```
 killall -9 bash
-cd MaTaDoR && killall screen && screen ./matador.sh
+cd MaTaDoR && killall screen && screen ./sezar.sh
 ```
 
 * * *
